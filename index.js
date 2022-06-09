@@ -29,4 +29,3 @@ function removeLastCat(){
     let removeCat = cats.slice(0, 2)
     return removeCat
 }
-console.log(removeLastCat())
